@@ -1,0 +1,183 @@
+@font-face {
+  font-family: 'font-icon-ndv-set-2';
+  src:  url('fonts/font-icon-ndv-set-2.eot?c475se');
+  src:  url('fonts/font-icon-ndv-set-2.eot?c475se#iefix') format('embedded-opentype'),
+    url('fonts/font-icon-ndv-set-2.ttf?c475se') format('truetype'),
+    url('fonts/font-icon-ndv-set-2.woff?c475se') format('woff'),
+    url('fonts/font-icon-ndv-set-2.svg?c475se#font-icon-ndv-set-2') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'font-icon-ndv-set-2' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon2-ndv-airport:before {
+  content: "\e900";
+}
+.icon2-ndv-anchor:before {
+  content: "\e901";
+}
+.icon2-ndv-bbq:before {
+  content: "\e902";
+}
+.icon2-ndv-beach:before {
+  content: "\e903";
+}
+.icon2-ndv-cafe:before {
+  content: "\e904";
+}
+.icon2-ndv-children-play-area:before {
+  content: "\e905";
+}
+.icon2-ndv-cinema:before {
+  content: "\e906";
+}
+.icon2-ndv-closet:before {
+  content: "\e907";
+}
+.icon2-ndv-conditioner:before {
+  content: "\e908";
+}
+.icon2-ndv-culture:before {
+  content: "\e909";
+}
+.icon2-ndv-dishwasher:before {
+  content: "\e90a";
+}
+.icon2-ndv-forest:before {
+  content: "\e90b";
+}
+.icon2-ndv-fridge:before {
+  content: "\e90c";
+}
+.icon2-ndv-gym:before {
+  content: "\e90d";
+}
+.icon2-ndv-hand:before {
+  content: "\e90e";
+}
+.icon2-ndv-high-way:before {
+  content: "\e90f";
+}
+.icon2-ndv-industrial-area:before {
+  content: "\e910";
+}
+.icon2-ndv-karaoke:before {
+  content: "\e911";
+}
+.icon2-ndv-kitchen-cabinet:before {
+  content: "\e912";
+}
+.icon2-ndv-makeup-table:before {
+  content: "\e913";
+}
+.icon2-ndv-market:before {
+  content: "\e914";
+}
+.icon2-ndv-mini-shop:before {
+  content: "\e915";
+}
+.icon2-ndv-mini-shop_1:before {
+  content: "\e916";
+}
+.icon2-ndv-mountain:before {
+  content: "\e917";
+}
+.icon2-ndv-neighbor:before {
+  content: "\e918";
+}
+.icon2-ndv-noname-8:before {
+  content: "\e919";
+}
+.icon2-ndv-park:before {
+  content: "\e91a";
+}
+.icon2-ndv-park-under:before {
+  content: "\e91b";
+}
+.icon2-ndv-person-forest:before {
+  content: "\e91c";
+}
+.icon2-ndv-playground:before {
+  content: "\e91d";
+}
+.icon2-ndv-pool:before {
+  content: "\e91e";
+}
+.icon2-ndv-preschool:before {
+  content: "\e91f";
+}
+.icon2-ndv-residential:before {
+  content: "\e920";
+}
+.icon2-ndv-restaurant:before {
+  content: "\e921";
+}
+.icon2-ndv-river:before {
+  content: "\e922";
+}
+.icon2-ndv-school:before {
+  content: "\e923";
+}
+.icon2-ndv-science:before {
+  content: "\e924";
+}
+.icon2-ndv-security:before {
+  content: "\e925";
+}
+.icon2-ndv-security-camera:before {
+  content: "\e926";
+}
+.icon2-ndv-shower:before {
+  content: "\e927";
+}
+.icon2-ndv-sink:before {
+  content: "\e928";
+}
+.icon2-ndv-smokeconsumer:before {
+  content: "\e929";
+}
+.icon2-ndv-stadium:before {
+  content: "\e92a";
+}
+.icon2-ndv-store:before {
+  content: "\e92b";
+}
+.icon2-ndv-swimming-pool:before {
+  content: "\e92c";
+}
+.icon2-ndv-table:before {
+  content: "\e92d";
+}
+.icon2-ndv-theatre:before {
+  content: "\e92e";
+}
+.icon2-ndv-tivi:before {
+  content: "\e92f";
+}
+.icon2-ndv-university:before {
+  content: "\e930";
+}
+.icon2-ndv-utility:before {
+  content: "\e931";
+}
+.icon2-ndv-utility-1:before {
+  content: "\e932";
+}
+.icon2-ndv-washing-machine:before {
+  content: "\e933";
+}
